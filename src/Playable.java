@@ -1,2 +1,3 @@
-public interface Playable {
+interface Payable {
+    double getPaymentAmount();
 }
